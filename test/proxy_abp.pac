@@ -3762,6 +3762,7 @@ var rules = [
   "@@||yahoo.cn", 
   "@@||youdao.com", 
   "@@||zhongsou.com", 
+  "@@||douban.com", 
   "@@|https://autoproxy.org", 
   "@@|http://ime.baidu.jp", 
   "||google.com", 
